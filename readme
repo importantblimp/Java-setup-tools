@@ -1,0 +1,13 @@
+This is a project that contains some useful setup for Java projects.
+
+To use this project:
+   1. Clone this repo
+   2. Delete the .git folder (otherwise your project will start with the history of this project)
+   3. Create a new git repo
+   4. Move the contents of Git-hooks to .git/hooks/
+
+Tools included are:
+  * Java specific git hooks
+  * A GNU makefile
+  * A blank readme (this is mostly a reminder for you to write one)
+  * A Java specific .gitignore
