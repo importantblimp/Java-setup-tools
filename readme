@@ -8,6 +8,6 @@ To use this project:
 
 Tools included are:
   * Java specific git hooks
-  * A GNU makefile
+  * A makefile (assumptions are detailed within the file)
   * A blank readme (this is mostly a reminder for you to write one)
   * A Java specific .gitignore
