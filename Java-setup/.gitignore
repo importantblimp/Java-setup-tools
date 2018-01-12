@@ -1,0 +1,6 @@
+# Directories
+bin/
+
+# Filetypes
+*.class
+*.jar
